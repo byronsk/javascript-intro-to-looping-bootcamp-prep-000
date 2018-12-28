@@ -16,3 +16,7 @@ function whileLoop(n){
   {console.log(n--)}
   return "done"
 }
+
+function maybeTrue() {
+  return Math.random() >= 0.5
+}
