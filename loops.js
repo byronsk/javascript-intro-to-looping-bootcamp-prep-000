@@ -10,8 +10,6 @@ function forLoop(array) {
   return array
 }
 
-var sample_arr = [];
-console.log(forLoop(sample_arr));
 
 function whileLoop() {
 
